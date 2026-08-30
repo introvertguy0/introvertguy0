@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @introvertguy0
-- 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning ReactJS
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently learning EDA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me suryawanshikrushna80@gmail.com
 - 😄 Pronouns: ...
